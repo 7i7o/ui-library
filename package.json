@@ -1,0 +1,22 @@
+{
+  "name": "@7i7o/ui-library",
+  "version": "1.0.0",
+  "description": "React Components Library",
+  "main": "src/index.ts",
+  "files": [
+    "src/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@7i7o",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^18.0.34",
+    "react": "^18.2.0",
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.2"
+  }
+}
